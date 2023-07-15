@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Anes039.github.io/WeatherApp/static/css/main.cc3807cc.css",
+    "main.js": "/https//Anes039.github.io/WeatherApp/static/js/main.b3b5c786.js",
+    "static/js/787.d9312eb8.chunk.js": "/https//Anes039.github.io/WeatherApp/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/https//Anes039.github.io/WeatherApp/index.html",
+    "main.cc3807cc.css.map": "/https//Anes039.github.io/WeatherApp/static/css/main.cc3807cc.css.map",
+    "main.b3b5c786.js.map": "/https//Anes039.github.io/WeatherApp/static/js/main.b3b5c786.js.map",
+    "787.d9312eb8.chunk.js.map": "/https//Anes039.github.io/WeatherApp/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc3807cc.css",
+    "static/js/main.b3b5c786.js"
+  ]
+}
