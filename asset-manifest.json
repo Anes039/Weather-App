@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//Anes039.github.io/Weatherapp/static/css/main.6deb060c.css",
-    "main.js": "/https//Anes039.github.io/Weatherapp/static/js/main.158d6489.js",
-    "static/js/787.d9312eb8.chunk.js": "/https//Anes039.github.io/Weatherapp/static/js/787.d9312eb8.chunk.js",
-    "index.html": "/https//Anes039.github.io/Weatherapp/index.html",
-    "main.6deb060c.css.map": "/https//Anes039.github.io/Weatherapp/static/css/main.6deb060c.css.map",
-    "main.158d6489.js.map": "/https//Anes039.github.io/Weatherapp/static/js/main.158d6489.js.map",
-    "787.d9312eb8.chunk.js.map": "/https//Anes039.github.io/Weatherapp/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/https//Anes039.github.io/Weather-App/static/css/main.6deb060c.css",
+    "main.js": "/https//Anes039.github.io/Weather-App/static/js/main.5a8fce5a.js",
+    "static/js/787.d9312eb8.chunk.js": "/https//Anes039.github.io/Weather-App/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/https//Anes039.github.io/Weather-App/index.html",
+    "main.6deb060c.css.map": "/https//Anes039.github.io/Weather-App/static/css/main.6deb060c.css.map",
+    "main.5a8fce5a.js.map": "/https//Anes039.github.io/Weather-App/static/js/main.5a8fce5a.js.map",
+    "787.d9312eb8.chunk.js.map": "/https//Anes039.github.io/Weather-App/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6deb060c.css",
-    "static/js/main.158d6489.js"
+    "static/js/main.5a8fce5a.js"
   ]
 }
